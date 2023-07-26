@@ -32,7 +32,7 @@ jobs:
         with:
           node-version: "18"
             
-      - name: Install deps
+      - name: Instala las dependencias
         run: npm i
           
       - name: Build
